@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [https://csgs.substack.com/)
+- 📝 I regularly write articles on https://csgs.substack.com/
 
 - 💬 Ask me about **Secondary & Sr. Secondary Computer Science, HTML, CSS, JS, Back-end Development, Python**
 
