@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on [100daysofcode](https://github.com/chandrasreasgop/100daysofcode.git)
 
-- 🌱 I’m currently learning **Kubernetes, Docker, Mobile App Development**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 📝 I regularly write articles on https://csgs.substack.com/
 
