@@ -38,14 +38,10 @@
 <br>
 <div align="center">
   
-  <img alt="Sreas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sreasgop&theme=transparent&show_icons=true">
-</div>
-<br>
-<div align="center">
-    <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=chandrasreasgop&theme=transparent&fire=blue&ring=CornflowerBlue">
+  <img alt="Sreas's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrasreasgop&theme=transparent&border_radius=20">
 </div>
 <br>
 
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasreasgop&layout=pie&theme=transparent'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasreasgop&theme=transparent&show_icons=true&hide_border=false&layout=pie'>
 </div>
